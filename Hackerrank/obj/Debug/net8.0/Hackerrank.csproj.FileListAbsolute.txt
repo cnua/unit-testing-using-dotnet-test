@@ -1,0 +1,11 @@
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/bin/Debug/net8.0/Hackerrank.deps.json
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/bin/Debug/net8.0/Hackerrank.dll
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/bin/Debug/net8.0/Hackerrank.pdb
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.AssemblyInfoInputs.cache
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.AssemblyInfo.cs
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.csproj.CoreCompileInputs.cache
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.dll
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/refint/Hackerrank.dll
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/Hackerrank.pdb
+/home/webmaster/Documents/programmer/ms.csharp/HackerrankSln/unit-testing-using-dotnet-test/Hackerrank/obj/Debug/net8.0/ref/Hackerrank.dll
